@@ -1,5 +1,5 @@
 {
-  "name": "exec",
+  "name": "@artit91/exec",
   "version": "1.0.0",
   "description": "Simplified exec for Node",
   "main": "dist/index.js",
