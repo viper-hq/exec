@@ -1,6 +1,6 @@
 # Simplified exec in NodeJs
 
-[![npm](https://img.shields.io/npm/v/@artit91/exec.svg)](https://www.npmjs.com/package/@artit91/exec)
+[![npm](https://img.shields.io/npm/v/@viperhq/exec.svg)](https://www.npmjs.com/package/@viperhq/exec)
 
 ## User input should be escaped!
 
